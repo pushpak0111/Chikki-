@@ -1,0 +1,39 @@
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Credentials and sensitive files
+credentials/
+credentials.json
+token.json
+*.pem
+*.key
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# Frontend
+node_modules/
+dist/
+build/
+.next/
+.vite/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+

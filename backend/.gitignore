@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+# gemini_client.py
+
+# Virtual environments
+.venv
+.env
+
+# useless files
+output.wav
+.python-version
+rag.py
+prompts.py
+output.waw
+api.py
+agents.py
+main-old.py
